@@ -1,7 +1,7 @@
 ## Inroduction
 Hello!
 
-## Cㅓ리어
+## Carrer
 
 ## Link
 
