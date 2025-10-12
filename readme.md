@@ -3,6 +3,7 @@
 * I'm interested in making game. 
 * One of my goals in school is create an indie game on my own.
 It might be very difficult, but I think it's possible with AI.
+
 * It's only been a month since I returned to school.
 So the thing I learn are unfamiliar, but I will study hard.
 
