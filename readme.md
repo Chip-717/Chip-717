@@ -1,10 +1,12 @@
 ## Inroduction
-Hello, World! I'm a student learning programming.
+Hello, World! 
+I'm a student learning programming.
 It's only been a month since I returned to school.
-So the thing I learn are unfamiliar.
+So the thing I learn are unfamiliar, but I will study hard.
 
-I'm intersted in making game. 
-One of my school life goal is making a indie game alone.
+I'm interested in making game. 
+One of my goals in school is create an indie game on my own.
+It might be very difficult, but I think it's possible with AI.
 
 ## Carrers
 * YeungNam Univ : School of Computer Science and Engineering : Major of Information & Communication Engineering
@@ -15,4 +17,4 @@ One of my school life goal is making a indie game alone.
 email : bear36031@yu.ac.kr
 
 ## LInk
-
+* https://github.com/Chip-717
