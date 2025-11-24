@@ -1,5 +1,5 @@
 ## Inroduction
-* Hello, World! I'm a student learning programming.
+* Hello, World! My name is Kand SeongHun, and I'm a student learning programming.
 * I'm interested in making game. 
 * One of my goals in school is create an indie game on my own.
 It might be very difficult, but I think it's possible with AI.
